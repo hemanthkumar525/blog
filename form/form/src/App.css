@@ -1,4 +1,4 @@
-/*.App {
+.App {
   text-align: center;
 }
 
@@ -35,21 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-form{
-  text-align: center;
-}
-#name{
-  text-align: center;
- }*/
-
-Container{ 
-  display: flex;
-  justify-content: center ;
-  text-align: center;
-}
-.container{
-  display: flex;
-  justify-content: center ;
-  text-align: center;
 }
